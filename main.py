@@ -59,10 +59,13 @@ def write_entry(directory: Path) -> Path:
 
 def check_written(target: Path) -> None:
     """Re-read what was written and gate it again, so a bad write
-    is caught here instead of in the sandbox."""
+    is caught here instead of in the sandbox. The byte length must
+    match too, so an encoding drift cannot slip through silently."""
     text = target.read_text(encoding="utf-8")
     check_text(text)
     check_text_clean(text)
+    if len(text.encode("utf-8")) != len(TEXT.encode("utf-8")):
+        raise ValueError("written entry.txt byte length differs from TEXT")
 
 
 def main() -> None:
