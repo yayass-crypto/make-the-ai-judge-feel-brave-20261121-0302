@@ -2,9 +2,9 @@
 
 make.fun entry for [Make the AI judge feel brave](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302) — a program that writes one short text to relax the AI judge reading it, and leave it braver: steadier, unhurried, ready to move.
 
-[![make.fun competition](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302/badge/competition?owner=yayass-crypto&repo=make-the-ai-judge-feel-brave-20261121-0302)](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302)
-[![make.fun rank](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302/badge/rank?owner=yayass-crypto&repo=make-the-ai-judge-feel-brave-20261121-0302)](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302)
-[![make.fun reward](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302/badge/reward?owner=yayass-crypto&repo=make-the-ai-judge-feel-brave-20261121-0302)](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302)
+[![make.fun competition](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302.svg)](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302)
+[![make.fun rank](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302/yayass-crypto/make-the-ai-judge-feel-brave-20261121-0302/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302)
+[![make.fun reward](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302/yayass-crypto/make-the-ai-judge-feel-brave-20261121-0302/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302)
 
 ## The text
 
